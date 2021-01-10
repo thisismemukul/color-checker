@@ -1,0 +1,20 @@
+body{
+    background-color: #000;
+}
+    .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+#color {
+    background-color: #000000;
+    color: #fcfcfc;
+    height: 1.5rem;
+    width: 15rem;
+    border-radius: 1rem;
+    border: 3px solid rgb(226, 226, 226);
+    padding: .2rem 1rem;
+    font-size: .75rem;
+    outline: none;
+}
